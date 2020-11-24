@@ -1,6 +1,6 @@
 # object-literal
 
-# Logic Challenge - Change Me!
+# 1. Logic Challenge - Change Me!
 
 ## Problem
 
@@ -19,7 +19,8 @@ function changeMe(arr) {
 }
 
 // TEST CASES
-changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]); // 1. Christ Evans:
+changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]); 
+// 1. Christ Evans:
 // { firstName: 'Christ',
 //   lastName: 'Evans',
 //   gender: 'Male',
@@ -30,11 +31,11 @@ changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]); // 
 //   gender: 'Male',
 //   age: 'Invalid Birth Year' }
 changeMe([]); // ""
-```
 
 
 
-# Logic Challenge - Shopping Time!
+
+# 2. Logic Challenge - Shopping Time!
 
 ## Problem
 
@@ -91,7 +92,7 @@ console.log(shoppingTime()); ////Mohon maaf, toko X hanya berlaku untuk member s
 
 
 
-# Logic Challenge - Toko X
+# 3. Logic Challenge - Toko X
 
 ## Problem
 
