@@ -19,7 +19,8 @@ function changeMe(arr) {
 }
 
 // TEST CASES
-changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]); // 1. Christ Evans:
+changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]);
+// 1. Christ Evans:
 // { firstName: 'Christ',
 //   lastName: 'Evans',
 //   gender: 'Male',
@@ -115,7 +116,6 @@ function countProfit(shoppers) {
                      ['Baju Zoro', 500000, 2],
                      ['Sweater Uniklooh', 175000, 1]
                    ];
-
   // you can only write your code here!
 }
 
